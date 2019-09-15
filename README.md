@@ -10,11 +10,11 @@ https://github.com/shamsaraj
 http://www.pharm-sbg.com
 
 Use -c and define a new list for local interpretation or -c True for a default list.
-The list should be defined a compound index list for local interpretation.
+The list should be defined compound index numbers (separated by comma, without space) for local interpretation.
 To get indexes use ----Descriptor table for the Train---- work sheet of the supplementary file.
 
-Use -n and define a csv file for prediction
+Use -n and define a csv file for prediction or "" to not make any predictions
 
 Use -d and define the sEH_RF_model.exe directory, use: slash instead of backslash,  path should be without space
 
-Usage example: sEH_RF_model -c [54, 76] -n sample_test_compounds.csv -d D:/sEH
+Usage example: sEH_RF_model -c 54,76 -n sample_test_compounds.csv -d D:/sEH_RF_model
