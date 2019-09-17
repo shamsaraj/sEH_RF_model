@@ -11,7 +11,7 @@ http://www.pharm-sbg.com
 
 Use -c and define a new list for local interpretation or -c True for a default list.
 The list should be defined as compound index numbers (separated by comma, without space) for local interpretation.
-To get indexes use ----Descriptor table for the Train---- work sheet of the supplementary file.
+To get indexes use ----Train set---- work sheet of the supplementary file.
 
 Use -n and define a csv file for prediction or "" to not make any predictions
 
