@@ -18,3 +18,5 @@ Use -n and define a csv file for prediction or "" to not make any predictions
 Use -d and define the sEH_RF_model.exe directory, use: slash instead of backslash,  path should not include any spaces
 
 Usage example: sEH_RF_model -c 54,76 -n sample_test_compounds.csv -d D:/sEH_RF_model
+
+Publication: https://www.eurekaselect.com/175739/article
